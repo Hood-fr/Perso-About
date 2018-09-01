@@ -1,2 +1,0 @@
-# Perso-About
-Piwigo plugin
